@@ -284,10 +284,3 @@ License
 - This project does not contain a license file by default. You can add one (for example MIT) if you want to make the project open source.
 
 ---
-
-If you'd like, I can:
-- Provide a sanitized commit-ready README.md file and push it to a GitHub repo (I can draft commits if you tell me repo details).
-- Generate migration SQL files for the DB and a sample `config.php` that uses environment variables.
-- Replace insecure patterns (plain-text passwords, raw SQL in login) with secure implementations (I can create updated `signup.php` and `login.php` using password_hash / password_verify and prepared statements).
-
-Which of these do you want me to do next?
